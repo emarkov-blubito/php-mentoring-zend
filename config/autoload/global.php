@@ -14,7 +14,7 @@
 return [
     'db' => [
         'driver' => 'Pdo',
-        'dsn'    => 'mysql:dbname=php_mentoring_laravel;host=localhost;charset=utf8',
+        'dsn'    => 'mysql:dbname=php_mentoring_zend;host=localhost;charset=utf8',
         'username' => 'root',
         'password' => 'pass',
     ],

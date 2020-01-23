@@ -93,7 +93,7 @@ return [
                     'port'     => '3306',
                     'user'     => 'root',
                     'password' => 'pass',
-                    'dbname'   => 'php_mentoring_laravel',
+                    'dbname'   => 'php_mentoring_zend',
                 ],
             ],
         ],
